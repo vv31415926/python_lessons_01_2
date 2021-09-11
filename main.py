@@ -3,3 +3,5 @@ if n % 2 > 0:
     print( 'n={} нечетное'.format(n) )
 else:
     print( 'n={} четное'.format(n) )
+
+print( 'Это ветка - master')
